@@ -17,6 +17,3 @@ The project will investigate:
 The project will compare base-model, few-shot and fine-tuned approaches
 using task-level evaluation.
 
-## Status
-
-🚧 Milestone 1 — Financial domain exploration and problem definition
